@@ -30,10 +30,10 @@ streamlit run main.py
 
 ## USING THE TOOL
 Enter the three url and press the process url button.
-(screenshots/Screenshot (195).png)
+![] (screenshots/Screenshot (195).png)
 
 After Processing the query box will appear then you can interact with the AI.
-(screenshots/Screenshot (198).png)
+![] (screenshots/Screenshot (198).png)
 
 ## DESCRIPTION
 
