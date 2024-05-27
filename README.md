@@ -30,10 +30,10 @@ streamlit run main.py
 
 ## USING THE TOOL
 Enter the three url and press the process url button.
-![] (screenshots/Screenshot (195).png)
+![Screenshot (195)](https://github.com/Abhimanyu004/FinanceSense_AI/assets/120742019/6af726e6-72b2-4f8c-aa7b-8ed2d03e1cc7)
 
 After Processing the query box will appear then you can interact with the AI.
-![] (screenshots/Screenshot (198).png)
+![Screenshot (198)](https://github.com/Abhimanyu004/FinanceSense_AI/assets/120742019/369d4fb4-62ae-4336-b164-ef3796409301)
 
 ## DESCRIPTION
 
